@@ -1,0 +1,7 @@
+.active{
+    border-bottom: 2px solid black;
+}
+
+.types::-webkit-scrollbar{
+    scrollbar-width: none;
+}
